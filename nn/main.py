@@ -1,6 +1,6 @@
 import numpy as np
-from lib.data_parsing import DataParser
-from lib.nn_model import NNModel
+from nn_lib.data_parsing import DataParser
+from nn_lib.nn_model import NNModel
 
 if __name__ == '__main__':
     split_data = True
